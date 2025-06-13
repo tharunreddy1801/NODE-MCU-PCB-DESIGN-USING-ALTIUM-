@@ -57,7 +57,7 @@ The goal of this project is to provide a **compact**, **production-ready** layou
 
 ---
 ## IMAGE
-![image](./image.png)
+![image](./image.jpg)
 
 ---
 
